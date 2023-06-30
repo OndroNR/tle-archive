@@ -1,6 +1,5 @@
 https://celestrak.com/NORAD/elements/cubesat.txt
 https://celestrak.com/NORAD/elements/active.txt
-https://celestrak.com/NORAD/elements/iridium.txt
 https://celestrak.com/NORAD/elements/satnogs.txt
 https://celestrak.com/NORAD/elements/iridium-NEXT.txt
 https://celestrak.com/NORAD/elements/oneweb.txt
