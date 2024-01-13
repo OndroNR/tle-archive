@@ -1,5 +1,4 @@
 https://celestrak.com/NORAD/elements/cubesat.txt
-https://celestrak.com/NORAD/elements/active.txt
 https://celestrak.com/NORAD/elements/satnogs.txt
 https://celestrak.com/NORAD/elements/gps-ops.txt
 https://celestrak.com/NORAD/elements/glo-ops.txt
