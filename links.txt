@@ -1,7 +1,7 @@
-https://celestrak.com/NORAD/elements/cubesat.txt
-https://celestrak.com/NORAD/elements/satnogs.txt
-https://celestrak.com/NORAD/elements/gps-ops.txt
-https://celestrak.com/NORAD/elements/glo-ops.txt
-https://celestrak.com/NORAD/elements/galileo.txt
-https://celestrak.com/NORAD/elements/beidou.txt
+https://celestrak.org/NORAD/elements/cubesat.txt
+https://celestrak.org/NORAD/elements/satnogs.txt
+https://celestrak.org/NORAD/elements/gps-ops.txt
+https://celestrak.org/NORAD/elements/glo-ops.txt
+https://celestrak.org/NORAD/elements/galileo.txt
+https://celestrak.org/NORAD/elements/beidou.txt
 
